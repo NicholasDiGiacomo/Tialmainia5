@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - enimy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladder
+  - player
+  - Background
+  - Bouncing
+  - enimy
+  - hazards
+  - bullets
+  - coin
+  - exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 966559191
+    locked: 0
+  - name: water
+    uniqueID: 1748351117
+    locked: 0
+  - name: platforms
+    uniqueID: 4008333415
+    locked: 0
+  - name: ladder
+    uniqueID: 1201437353
+    locked: 0
+  - name: Bouncing
+    uniqueID: 3104106965
+    locked: 0
+  - name: Hazards
+    uniqueID: 3313541189
+    locked: 0
+  - name: coin
+    uniqueID: 3060624071
+    locked: 0
+  - name: exit
+    uniqueID: 49159777
+    locked: 0
+  - name: enimy
+    uniqueID: 2422715007
+    locked: 0
+  - name: player
+    uniqueID: 2229067527
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []
